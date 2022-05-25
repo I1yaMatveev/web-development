@@ -1,0 +1,317 @@
+.header__nav-bar
+{
+	font: normal 500 16px/0.8 'Montserrat';
+	color: #000;
+}
+
+.text_what-will
+{
+	width: 171px;
+}
+
+.text_questions
+{
+	width: 77px;
+}
+
+.text_author
+{
+	width: 51px;
+}
+
+.header__button
+{
+	width: 247px;
+	height: 55px;
+	background: #05090c;
+	border-radius: 4.59px;
+	font: normal 600 16px/1 'Montserrat';	
+	color: #fff;	
+}
+
+.top__button
+{
+	width: 332px;
+	height: 55px;
+	background: #05090c;
+	border-radius: 4.59px;
+	font: normal 600 16px/1 'Montserrat';
+	color: #fff;		
+}
+
+.top__title
+{
+	width: 745px;
+	height: 138.31px;
+	font: normal 600 100px/0.82 'Montserrat';
+	color: #000;
+}
+
+.top__text
+{
+	width: 545px;
+	height: 62px;
+	font: normal 400 26px/1.2 'Roboto Condensed';
+	color: rgba(0, 0, 0, 0.7);
+}
+
+.text_color
+{
+	color: #ee58b6;
+}
+
+.short-description
+{
+	width: 1920px;
+	background: #000;
+}
+
+.short-description__time
+{
+	width: 285px;
+	height: 145px;
+}
+
+.image-time
+{
+	margin-top: 5.41px;
+	margin-left: 118px;
+}
+
+.text-time
+{
+	padding: 0px 0px 0px 9px;
+	width: 303px;
+	height: 52px;
+	font: normal 400 22px/1.2 'Roboto Condensed';
+	color: #fff;
+	text-align: center;
+}
+
+.short-description__notebook
+{
+	width: 337px;
+	height: 145px;
+}
+
+.image-notebook
+{
+	margin-top: 4.42px;
+	margin-left: 135.42px;
+}
+
+.text-notebook
+{
+	width: 337px;
+	height: 52px;
+	font: normal 400 22px/1.2 'Roboto Condensed';
+	color: #fff;
+	text-align: center;
+}
+
+.short-description__target
+{
+	width: 293px;
+	height: 145px;
+}
+
+.image-target
+{
+	margin-top: 3.93px;
+	margin-left: 119.99px;
+}
+
+.text-target
+{
+	padding: 0px 0px 0px 9px;
+	width: 303.95px;
+	height: 52px;
+	font: normal 400 22px/1.2 'Roboto Condensed';
+	color: #fff;	
+	text-align: center;
+}
+
+.blog
+{
+	width: 1920px;
+}
+
+.blog__creation
+{
+	width: 1136px;
+}
+
+.title-creation
+{
+	width: 376px;
+	height: 61px;
+	font: normal 500 48px/38px 'Montserrat';
+	color: #000;	
+}
+
+.text-creation
+{
+	width: 574px;
+	height: 48px;
+	font: normal 400 18px/24px 'Roboto Condensed';
+	color: rgba(0, 0, 0, 0.7);
+}
+
+.blog__deadline
+{
+	width: 1135px;
+}
+
+
+.title-deadline
+{
+	width: 386px;
+	height: 61px;
+	font: normal 500 48px/38px 'Montserrat';
+	color: #000;	
+}
+
+.text-deadline
+{
+	width: 574px;
+	height: 44px;
+	font: normal 400 18px/24px 'Roboto Condensed';
+	color: rgba(0, 0, 0, 0.7);
+}
+
+.about-course
+{
+	width: 1920px;
+}
+
+.about-course__title
+{
+	width: 553px;
+	height: 59px;
+	font: normal 500 48px/59px 'Montserrat';
+	text-align: center;
+	color: #000;
+}
+
+.about-course__images
+{
+	padding: 33px 0px 0px 40px;
+}
+
+.about-course__first-step
+{
+	width: 358px;
+	height: 190px;
+	background: #000;
+	border-radius: 7.35px;	
+}
+
+.first-step-text
+{
+	padding: 0px 0px 0px 40.25px;
+	width: 269.77px;
+	height: 51.5px;
+	font: normal 400 18px/21px 'Roboto Condensed';
+	color: #fff;
+}
+
+.about-course__second-step
+{
+	width: 358px;
+	height: 190px;
+	background: #000;
+	border-radius: 7.35px;	
+}
+
+.second-step-text
+{
+	padding: 0px 0px 0px 40.25px;
+	width: 269.77px;
+	height: 51.5px;
+	font: normal 400 18px/21px 'Roboto Condensed';
+	color: #fff;
+}
+
+.about-course__third-step
+{
+	width: 358px;
+	height: 190px;
+	background: #000;
+	border-radius: 7.35px;	
+}
+
+.third-step-text
+{
+	padding: 0px 0px 0px 40.25px;
+	width: 238.77px;
+	height: 51.5px;
+	font: normal 400 18px/21px 'Roboto Condensed';
+	color: #fff;
+}
+
+.about-course__fourth-step
+{
+	width: 358px;
+	height: 190px;
+	background: #000;
+	border-radius: 7.35px;	
+}
+
+.fourth-step-text
+{
+	padding: 0px 0px 0px 40.25px;
+	width: 263.77px;
+	height: 51.5px;
+	font: normal 400 18px/21px 'Roboto Condensed';
+	color: #fff;
+}
+
+.about-course__fifth-step
+{
+	width: 358px;
+	height: 190px;
+	background: #000;
+	border-radius: 7.35px;	
+}
+
+.fifth-step-text
+{
+	padding: 0px 0px 0px 40.25px;
+	width: 209.77px;
+	height: 51.5px;
+	font: normal 400 18px/21px 'Roboto Condensed';
+	color: #fff;
+}
+
+.about-course__sixth-step
+{
+	width: 358px;
+	height: 190px;
+	background: #000;
+	border-radius: 7.35px;	
+}
+
+.sixth-step-text
+{
+	padding: 0px 0px 0px 40.25px;
+	width: 286px;
+	height: 52px;
+	font: normal 400 18px/21px 'Roboto Condensed';
+	color: #fff;
+}
+
+.footer
+{
+	width: 1920px;
+	height: 108px;
+	background: #000;	
+}
+
+.footer__image
+{
+	padding: 32px 876px;
+	width: 167px;
+	height: 48px;
+	text-align: center;
+	align-content: center;
+}
